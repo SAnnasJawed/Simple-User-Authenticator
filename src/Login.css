@@ -1,0 +1,15 @@
+input{
+    margin-top: 10px;;
+}
+
+.col-md-4{
+    margin-top: 200px;
+    background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.btn{
+    margin-right: 355px;
+    border-radius: 6px;
+}
